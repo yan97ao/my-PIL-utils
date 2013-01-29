@@ -4,7 +4,7 @@ import sys
 
 def main():
 	if len(sys.argv) !=6 :
-		print "Usage: ./wxy.py 宽度 高度 X间距 Y间距 保存文件名"
+		print "Usage: ./grid_generator.py 宽度 高度 X间距 Y间距 保存文件名"
 		quit()
 	
 	width=int(sys.argv[1])

@@ -54,6 +54,4 @@ def main():
 
 if __name__ == "__main__":
 	main()
-
-__revision__ = '0.1'
 #- EOF -
